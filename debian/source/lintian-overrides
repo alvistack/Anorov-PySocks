@@ -1,0 +1,5 @@
+python-pysocks source: file-without-copyright-information
+python-pysocks source: no-debian-changes
+python-pysocks source: source-contains-prebuilt-windows-binary
+python-pysocks source: source-is-missing
+python-pysocks source: source-package-encodes-python-version

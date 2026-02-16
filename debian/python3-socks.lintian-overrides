@@ -1,0 +1,4 @@
+python3-socks: copyright-without-copyright-notice
+python3-socks: initial-upload-closes-no-bugs
+python3-socks: no-manual-page
+python3-socks: zero-byte-file-in-doc-directory
